@@ -1,0 +1,5 @@
+#ignorar todos logs
+*.log
+# ignorar todos textos. pode ser revisto
+*.txt
+
